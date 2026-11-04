@@ -1,5 +1,7 @@
 -HI, MY Name is Marah Qandeel 
+
 Intelligent Systems & Computer Engineering student 
+
 | AI & Workflow Automation | Python, FastAPI, n8n, PostgreSQL | Building practical AI-powered solutions
 
 <!---
